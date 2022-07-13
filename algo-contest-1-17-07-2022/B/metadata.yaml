@@ -1,0 +1,14 @@
+code: ''
+slug: ''
+tags: []
+difficulty: 0.0
+experience_gain: 100
+statement_format: markdown
+statement_language: vi
+statement_translations: []
+limit_time_ms: 5000
+limit_memory_mb: 64
+testcase_format: ucode
+src_name: ''
+src_id: ''
+src_url: ''
