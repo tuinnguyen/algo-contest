@@ -2,7 +2,7 @@
 
 Sau những ngày đi Đà Lạt Tuân có trong máy rất nhiều tấm hình đẹp, khổ nỗi mỗi lần cậu chụp cậu cứ thay thẻ nhớ nên số lượng hình ở mỗi thẻ cứ lộn hết cả lên. Trước khi đi chơi, cậu hứa với nhóm bạn gồm $n$ người, mỗi người sẽ có ảnh đẹp ở Đà Lạt. Để cho công bằng, dĩ nhiên số ảnh mỗi người nhận được sẽ là như nhau. Để cho tiện gửi ảnh, cậu còn mua sẵn $n$ chiếc thẻ nhớ và chuẩn bị $n$ bức thư tay từ trước. Thư tay đã xong chỉ riêng mỗi ảnh thì lại lộn xộn cả. Bây giờ cậu quyết định sẽ lấy bớt một số lượng ảnh ở mỗi thẻ sao cho sau quá trình này thì mỗi chiếc thẻ sẽ có số ảnh bằng nhau. Dĩ nhiên là một người thông minh, Tuân sẽ cố gắng lấy ít ảnh nhất có thể. $n$ chiếc thẻ nhớ, chiếc thẻ thứ $i$ có $a_i$ tấm ảnh.
 
-***Yêu cầu:*** Tìm số lượng ảnh ít nhất Tuân cần lấy để số ảnh trong $n$ tấm thẻ nhớ đều bằng nhau.
+***Yêu cầu:*** Tìm số lượng ảnh ít nhất Tuân cần lấy để số ảnh trong $n$ 4
 
 ## Input
 

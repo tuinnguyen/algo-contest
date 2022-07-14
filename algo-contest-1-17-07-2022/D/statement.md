@@ -2,7 +2,9 @@
 
 Sáng nay Tuân có chuyến tàu Từ Đà Lạt về lại Sài Gòn nên cậu đã dậy thật sớm để chuẩn bị. Nhìn quanh phong cảnh lần cuối cậu tranh thủ ra đến ga tàu. Hôm nay người đi tàu rất nhiều...
 
-Chuyến tàu của cậu đi hiện nay có $n$ toa, toa thứ $i$ đang có $a_i$ người. Nhà ga có quy định rằng toa tàu thứ $i$ trong đoàn tàu sẽ chứa tối đa $i$ người, nghĩa là $a_i \le i$ với $a_i$ là số người trong toa tàu thứ $i$. Nhà ga có thể thêm vài toa tàu (hoặc không thêm) vào đoàn tàu để thỏa mãn quy định trên. Giả sử hiện tại đoàn tàu đang có $4$ toa với số hành khách trên đó lần lượt từ toa tàu thứ nhất đến toa tàu thứ tư là: $[1, 3, 4, 5]$. Khi đó, nhà ga cần thêm một toa tàu chở $2$ người vào vị trí thứ hai của đoàn tàu: $[1, 2, 3, 4, 5]$ hoặc thêm một toa chở $1$ người vào vị trí thứ hai của đoàn tàu: $[1, 1, 3, 4, 5]$. Nhà ga có thể thêm toa tàu vào bất cứ vị trí nào của đoàn tàu.
+Chuyến tàu của cậu đi hiện nay có $n$ toa, toa thứ $i$ đang có $a_i$ người. Nhà ga có quy định rằng toa tàu thứ $i$ trong đoàn tàu sẽ chứa tối đa $i$ người, nghĩa là $a_i \le i$ với $a_i$ là số người trong toa tàu thứ $i$.
+
+Nhà ga có thể thêm vài toa tàu (hoặc không thêm) vào đoàn tàu ở bất cứ vị trí nào. Giả sử hiện tại đoàn tàu đang có $4$ toa theo thứ tự từ trái sang phải: $[1, 3, 4, 5]$. Khi đó, nhà ga cần thêm một toa tàu chở $2$ người vào vị trí thứ hai của đoàn tàu: $[1, 2, 3, 4, 5]$ hoặc thêm một toa chở $1$ người vào vị trí thứ hai của đoàn tàu: $[1, 1, 3, 4, 5]$.
 
 Tuân tự hỏi để duy trì quy định của nhà ga, thì phải cần thêm tối thiểu bao nhiêu toa tàu.
 

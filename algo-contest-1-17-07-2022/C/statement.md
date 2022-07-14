@@ -1,6 +1,10 @@
 # Lá thăm
 
-Trước khi lên xe về Sài Gòn lại vào sáng mai Tuân quyết định đi vạo một vòng quanh Đà Lạt lần cuối. Đang ngắm nhìn dòng người đi qua lại tấp nập, lọt vào mắt của Tuân là một gánh hàng chơi rút thăm trúng thưởng. Tính tò mò trong cậu trỗi dậy và cậu bước lại đó. Trước mặt cậu là cô gái ở *trạm dừng chân* ngày trước. Lần này vẫn là cô nhưng trông rất khác, xinh đẹp khiến cậu ngây người đi một lúc. Cô nhẹ nhàng giới thiệu cho cậu về luật chơi như sau: Cậu có $n + 1$ lượt rút thăm, mỗi lá thăm sẽ là một con số $a_1, a_2, a_3 \dots, a_{n + 1}$ với các giá trị trong khoảng $0 \le a_i < n$ hoặc $a_i = n^2$. Người chơi sẽ trúng thưởng nếu bốc trúng lá thăm được đánh số $n^2$. Với mỗi lá thăm trúng thưởng cậu sẽ được một món quà từ cô. Do đó mà cậu muốn rút càng nhiều thăm càng tốt. Song việc rút hết $n + 1$ lá thăm sẽ rất lâu nên cô cho cậu biết tổng các số trên $n + 1$ lá thăm kia sẽ bằng $s$, nghĩa là biết $s = \sum\limits_{i = 1}^{n + 1}a_i$. Cậu suy nghĩ với gợi ý như thế thì làm sao biết được có nhiều nhất bao nhiêu lá thăm trúng thưởng?
+Trước khi lên xe về Sài Gòn lại vào sáng mai Tuân quyết định đi vạo một vòng quanh Đà Lạt lần cuối. Đang ngắm nhìn dòng người đi qua lại tấp nập, lọt vào mắt của Tuân là một gánh hàng chơi rút thăm trúng thưởng. Tính tò mò trong cậu trỗi dậy và cậu bước lại đó. Trước mặt cậu là cô gái ở *trạm dừng chân* ngày trước. Lần này vẫn là cô nhưng trông rất khác, xinh đẹp khiến cậu ngây người đi một lúc.
+
+Cô nhẹ nhàng giới thiệu cho cậu về luật chơi như sau: Cậu có $n + 1$ lượt rút thăm, trên lá thăm thứ $i$ là một con số $a_i \; \forall i \in [1, n + 1]$. Số trên lá thăm thỏa mãn: $0 \le a_i < n$ hoặc $a_i = n^2$. Người chơi sẽ trúng thưởng nếu bốc trúng lá thăm được đánh số $n^2$. Với mỗi lá thăm trúng thưởng cậu sẽ được một món quà từ cô. Do đó mà cậu muốn rút càng nhiều thăm càng tốt. Song việc rút hết $n + 1$ lá thăm sẽ rất lâu nên cô cho cậu biết tổng các số trên $n + 1$ lá thăm kia sẽ bằng $s$, nghĩa là biết $s = \sum\limits_{i = 1}^{n + 1}a_i$.
+
+Cậu suy nghĩ với gợi ý như thế thì làm sao biết được có nhiều nhất bao nhiêu lá thăm trúng thưởng?
 
 ***Yêu cầu:*** Biết giá trị $n$ và $s$, hãy tính và đưa ra số thăm trúng thưởng nhiều nhất có thể.
 
