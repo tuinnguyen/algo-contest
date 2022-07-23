@@ -1,0 +1,14 @@
+{
+    "problemName": "nong_trai_dui_de",
+    "writer": "nnminh",
+    "tags": [
+        "DFS",
+        "BFS",
+        "brute force",
+        "graph"
+    ],
+    "difficulty": 900,
+    "originalProblem": "https://codeforces.com/problemset/problem/948/A",
+    "ID": "",
+    "date": "23/02/2022"
+}
